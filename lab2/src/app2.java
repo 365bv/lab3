@@ -1,4 +1,4 @@
-public class app {
+public class app2 {
 
     static void c1(double a, double b, double c, double d) {
 
